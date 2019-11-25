@@ -4,5 +4,73 @@ fields:
   text:
     label: Text
     type: textarea
-    size: large
+    size: small
 
+  headertitle:
+    label: HEADER TITLE
+    type: text
+    size: small
+  headertext:
+    label: Header / Text
+    type: textarea
+    size: small
+
+  featurestitle:
+    label: FEATURES TITLE
+    type: text
+    size: small
+
+  whytitle:
+    label: WHY TITLE
+    type: text
+    size: small
+  whytextone:
+    label: Why / Text one
+    type: textarea
+    size: small
+  whytexttwo:
+    label: Why / Text two
+    type: textarea
+    size: small
+
+  quotetext:
+    label: QUOTE
+    type: text
+    size: small
+
+  linksix:
+    label: LINK 6
+    type: url
+    size: small
+
+  video:
+    label: VIDEO URL
+    type: url
+    size: small
+
+  whotitle:
+    label: WHO TITLE
+    type: text
+    size: small
+  whotextone:
+    label: Who / Text one
+    type: textarea
+    size: small
+  whotexttwo:
+    label: Who / Text two
+    type: textarea
+    size: small
+
+  tutorialtitle:
+    label: TUT TITLE
+    type: text
+    size: small
+  tutorialtext:
+    label: Tut / Text
+    type: textarea
+    size: small
+
+  linktutorial:
+    label: LINK TUT
+    type: url
+    size: small
