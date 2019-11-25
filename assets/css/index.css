@@ -16,6 +16,7 @@
 html {
   background-color: #e4e4e4;
   font-family: "Source Sans Pro", sans-serif;
+  scroll-behavior: smooth;
 }
 
 li {
@@ -41,8 +42,7 @@ img {
 }
 
 .page > * {
-  max-width: var(--content-width);
-  margin: 0 auto;
+  width: 100%;
 }
 
 .header {
@@ -51,6 +51,11 @@ img {
   height: 60px;
   color: white;
   padding: 25px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0;
 }
 
 .header a {
@@ -66,12 +71,6 @@ img {
   display: block;
   margin-bottom: 1.5rem;
   padding: 0.5rem 0;
-}
-
-.header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .menu a {
@@ -112,6 +111,7 @@ main {
   justify-content: center;
   padding: 0 150px;
   text-align: center;
+  margin-top: 60px;
 }
 
 #intro-blok-left {

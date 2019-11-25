@@ -30,13 +30,18 @@
       <a class="logo" href="<?= $site->url() ?>"><?= $site->title() ?></a>
 
       <nav id="menu" class="menu">
-        <?php 
-        // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
+        <!-- <?php 
+         // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
         // We do not want to display links to unlisted `error`, `home`, or `sandbox` pages
         // More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
         foreach ($site->children()->listed() as $item): ?>
         <?= $item->title()->link() ?>
-        <?php endforeach ?>
+        <?php endforeach ?> -->
+        <a href="#home">Home</a>
+        <a href="#features">Features</a>
+        <a href="#works">Works</a>
+        <a href="#tutorial">Tutorial</a>
+        <a href="#sources">Sources</a>
       </nav>
     </header>
 

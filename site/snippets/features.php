@@ -8,7 +8,7 @@
  */
 ?>
 
-<div class="features">
+<div class="features" id="features">
     <div class="title">
         <?= $page->featurestitle()->kirbytext() ?>
         <span></span>

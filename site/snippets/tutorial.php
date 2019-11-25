@@ -8,7 +8,7 @@
  */
 ?>
 
-<div class="tutorial">
+<div class="tutorial" id="tutorial">
 
     <div id="tutorial-blok-left">
         <?= $page->tutorialtitle()->kirbytext() ?><br>

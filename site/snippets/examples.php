@@ -8,7 +8,7 @@
  */
 ?>
 
-<div class="workexamples">
+<div class="workexamples" id="works">
 
     <div class="title">
         <h3>WORK EXAMPLES</h3>
