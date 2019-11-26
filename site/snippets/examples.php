@@ -19,21 +19,21 @@
 
         <div class="column">
             <div class="work">
-                <div class="work-image-1"></div>
+                <div class="zoom"><div class="work-image-1"></div></div>
                 <h2>Tap Table App</h2>
                 <p>By Arun Thangavel</p>
             </div>
         </div>
         <div class="column">
             <div class="work">
-                <div class="work-image-2"></div>
+                <div class="zoom"><div class="work-image-2"></div></div>
                 <h2>Apple Music</h2>
                 <p>By Keith Alva</p>
             </div>
         </div>
         <div class="column">
             <div class="work">
-                <div class="work-image-3"></div>
+                <div class="zoom"><div class="work-image-3"></div></div>
                 <h2>Tralley</h2>
                 <p>By Sabine Schwarzkopf</p>
             </div>

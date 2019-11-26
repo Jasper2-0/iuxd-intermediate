@@ -345,13 +345,23 @@ a:hover {
 .circle-5,
 .circle-6 {
   background-color: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
   border-radius: none;
   height: 52px;
-  width: 90px;
   margin-bottom: 30px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  transition: transform .2s;
+  width: 90px;
+}
+
+.circle-1:hover,
+.circle-2:hover,
+.circle-3:hover,
+.circle-4:hover,
+.circle-5:hover,
+.circle-6:hover {
+  transform: scale(1.1);
 }
 
 .circle-1 {
@@ -442,13 +452,28 @@ a:hover {
   padding-bottom: 100px;
 }
 
+.zoom {
+  height: 300px;
+  margin-bottom: 30px;
+  overflow: hidden;
+  width: 300px;
+}
+
 .work-image-1,
 .work-image-2,
 .work-image-3 {
   background-color: #ffd9f2;
-  height: 240px;
+  border: 2px solid #FFFFFF;
+  height: 100%;
   margin-bottom: 30px;
-  width: 240px;
+  width: 100%;
+  transition: transform .4s;
+}
+
+.work-image-1:hover,
+.work-image-2:hover,
+.work-image-3:hover {
+  transform: scale(1.2);
 }
 
 .work-image-1 {

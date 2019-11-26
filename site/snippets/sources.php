@@ -21,7 +21,7 @@
 
             <div class="col">
                 <div class="source">
-                    <h4>Xd Recources</h4>
+                    <h4>XD Recources</h4>
                     <a href="(https://xdresources.co/)">All kinds of recources for XD. From UI Kits to Templates and
                         Mockups.</a>
                 </div>
