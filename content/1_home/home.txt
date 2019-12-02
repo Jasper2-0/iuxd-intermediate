@@ -1,9 +1,154 @@
-Title: My Awesome IUXD Topic
+Title: Design Sprints
+
+----
+
+Title-1: Wat is een Design Sprint?
+
+----
+
+Wat:
+
+Een design sprint is een proces van 5 dagen wat door multidisciplinaire teams gebruikt wordt voor het beantwoorden van kritische vraagstukken. Een sprint helpt teams om snel en stapsgewijs van probleem naar geteste oplossing te komen en zo een proces van maanden designen, prototypen en testen naar slechts 5 dagen te brengen. Het kan worden gezien als een kijkje in de toekomst, je kan zien hoe gebruikers op je product (high-fidelity prototype) reageren voordat je veel tijd, geld en moeite steekt in het bouwen van een product. 
+
+Een design sprint gaat niet alleen om efficiëntie en het besparen van tijd. Het helpt ook om de ‘normale’ manier van werken te onderbreken en deze te vervangen voor een slimmere en meer effectieve manier van problemen oplossen, die gebruik maakt van ieders beste kwaliteit.
+
+----
+
+Usp1: Bespaar tijd door vergaderingen <br/> over te slaan
+
+----
+
+Usp2: Valideer snel <br/> al bestaande <br/> ideeën en visies
+
+----
+
+Usp3: Houd je team gefocust en enthousiast
+
+----
+
+Usp4: Komt er achter hoe je doelgroep op het product reageert
+
+----
+
+Usp5: Krijg een duidelijke koers; een product strategie en -visie
+
+----
+
+Title-2: Wanneer is een Design Sprint van goede kwaliteit?
+
+----
+
+Wanneer-1: Als er een <b>duidelijk vraagstuk</b> is geformuleerd.
+
+----
+
+Wanneer-2: Als de <b>juiste mensen</b> bij de Sprint worden betrokken.
+
+----
+
+Wanneer-3: Als er veel <b>oplossingsrichtingen en risico’s</b> zijn verkend.
+
+----
+
+Wanneer-4: Als er een goed <b>testbaar prototype</b> is gemaakt.
+
+----
+
+Wanneer-5: Als er aan het eind van de sprint een duidelijke <b>koers voor de toekomst</b> is.
+
+----
+
+Wanneer-6: Als er goed is gekeken naar of de onderdelen van de Sprint <b>aansluiten op het vraagstuk.</b>
+
+----
+
+Title-wie: Wie neemt deel aan een Design Sprint?
+
+----
+
+Wie: Een Design Sprint-team heeft meestal een gevarieerde samenstelling, idealiter bestaat het team uit 4 tot 8 personen. De deelnemers van de sprint vormen samen een multidisciplinair team, dit betekent dat er mensen van verschillende disciplines, dus bijvoorbeeld niet alleen designers, in één team samenwerken. Ook betekent dit dat er mensen van de klant aanwezig zullen zijn, door de klant zo nauw te betrekken gaat de communicatie sneller en kunnen de partijen elkaar leren kennen.
+
+----
+
+Wie1: Facilitator <br/> / strateeg
+
+----
+
+Wie2: Product <br/> owner
+
+----
+
+Wie3: Visual <br/> designer
+
+----
+
+Wie4: UX <br/> designer
+
+----
+
+Wie5: Technicus <br/> / developer
+
+----
+
+Wie6: Copy writer <br/> / marketeer
+
+----
+
+Title-verloop: Hoe verloopt een Google Design Sprint?
+
+----
+
+Maandag: Maandag
+
+----
+
+Dinsdag: Dinsdag
+
+----
+
+Woensdag: Woensdag
+
+----
+
+Donderdag: Donderdag
+
+----
+
+Vrijdag: Vrijdag
+
+----
+
+Maandag-description: Het vraagstuk, de doelgroep, de competitie, etc, verkennen en een succesfactor formuleren.
+
+----
+
+Dinsdag-description: Zoveel mogelijk innovatieve ideeën/oplossingen op papier schetsen met behulp van creatieve technieken.
+
+----
+
+Woensdag-description: Ideeën tegen elkaar afwegen en een concept kiezen.
+
+----
+
+Donderdag-description: Ontwerpen en een high-fidelity, testbaar, interactief prototype maken.
+
+----
+
+Vrijdag-description: Het prototype testen met 5 á 6 eindgebruikers.
+
+----
+
+Wanneer: Dit is checklist puntje 1
+
+----
+
+Nieuw: Is dit bijgewerkt?
 
 ----
 
 Text:
 
-Hi IUXD Student, this is the IUXD-Intermediate Template Repository.
+# Wat is een Design Sprint?
+Een design sprint is een proces van 5 dagen wat door multidisciplinaire teams gebruikt wordt voor het beantwoorden van kritische vraagstukken. Een sprint helpt teams om snel en stapsgewijs van probleem naar geteste oplossing te komen en zo een proces van maanden designen, prototypen en testen naar slechts 5 dagen te brengen. Het kan worden gezien als een kijkje in de toekomst, je kan zien hoe gebruikers op je product (high-fidelity prototype) reageren voordat je veel tijd, geld en moeite steekt in het bouwen van een product. 
 
-As you can see Kirby and Bootstrap have been provided. Good luck with realising the 0.1 one pager!
+Een design sprint gaat niet alleen om efficiëntie en het besparen van tijd. Het helpt ook om de ‘normale’ manier van werken te onderbreken en deze te vervangen voor een slimmere en meer effectieve manier van problemen oplossen, die gebruik maakt van ieders beste kwaliteit.

@@ -1,8 +1,135 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
+  title_1:
+    label: title_1
+    type: textarea
+    size: small
+  wat:
+    label: wat
     type: textarea
     size: large
-
+  usp1:
+    label: usp1
+    type: textarea
+    size: small
+  usp2:
+    label: usp2
+    type: textarea
+    size: small
+  usp3:
+    label: usp3
+    type: textarea
+    size: small
+  usp4:
+    label: usp4
+    type: textarea
+    size: small
+  usp5:
+    label: usp5
+    type: textarea
+    size: small
+  title_2:
+    label: title_2
+    type: textarea
+    size: small
+  wanneer_1:
+    label: wanneer_1
+    type: textarea
+    size: small
+  wanneer_2:
+    label: wanneer_2
+    type: textarea
+    size: small
+  wanneer_3:
+    label: wanneer_3
+    type: textarea
+    size: small
+  wanneer_4:
+    label: wanneer_4
+    type: textarea
+    size: small
+  wanneer_5:
+    label: wanneer_5
+    type: textarea
+    size: small
+  wanneer_6:
+    label: wanneer_6
+    type: textarea
+    size: small
+  title_wie:
+    label: title_wie
+    type: textarea
+    size: small
+  wie:
+    label: wie
+    type: textarea
+    size: medium
+  wie1:
+    label: wie1
+    type: textarea
+    size: small
+  wie2:
+    label: wie2
+    type: textarea
+    size: small
+  wie3:
+    label: wie3
+    type: textarea
+    size: small
+  wie4:
+    label: wie4
+    type: textarea
+    size: small
+  wie5:
+    label: wie5
+    type: textarea
+    size: small
+  wie6:
+    label: wie6
+    type: textarea
+    size: small
+  title_verloop:
+    label: title_verloop
+    type: textarea
+    size: small
+  maandag:
+    label: maandag
+    type: textarea
+    size: small
+  dinsdag:
+    label: dinsdag
+    type: textarea
+    size: small
+  woensdag:
+    label: woensdag
+    type: textarea
+    size: small
+  donderdag:
+    label: donderdag
+    type: textarea
+    size: small
+  vrijdag:
+    label: vrijdag
+    type: textarea
+    size: small
+  maandag_description:
+    label: maandag_description
+    type: textarea
+    size: small
+  dinsdag_description:
+    label: dinsdag_description
+    type: textarea
+    size: small
+  woensdag_description:
+    label: woensdag_description
+    type: textarea
+    size: small
+  donderdag_description:
+    label: donderdag_description
+    type: textarea
+    size: small
+  vrijdag_description:
+    label: vrijdag_description
+    type: textarea
+    size: small
