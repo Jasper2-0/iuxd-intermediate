@@ -8,7 +8,8 @@
  */
 ?>
 
-<header class="intro" id="home">
+<header class="intro">
+    <div id="home"></div>
     <div id="intro-blok-left">.</div>
     <div id="intro-blok-right">
         <?= $page->headertitle()->kirbytext() ?>

@@ -8,12 +8,14 @@
  */
 ?>
 
-<div class="sources" id="sources">
+<div class="sources">
 
     <div class="title">
         <h3>SOURCES</h3>
         <span></span>
     </div>
+
+    <div id="sources"></div>
 
     <div class="source-block">
 

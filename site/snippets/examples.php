@@ -8,12 +8,14 @@
  */
 ?>
 
-<div class="workexamples" id="works">
+<div class="workexamples">
 
     <div class="title">
         <h3>WORK EXAMPLES</h3>
         <span></span>
     </div>
+
+    <div id="works"></div>
 
     <div class="row">
 
