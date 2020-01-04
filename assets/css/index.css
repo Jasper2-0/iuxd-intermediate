@@ -350,6 +350,12 @@ a:hover {
   align-items: center;
   display: flex;
   flex-direction: column;
+  text-align: center;
+}
+
+.text-block {
+  height: 300px;
+  width: 100%;
 }
 
 .circle-1,
@@ -364,7 +370,7 @@ a:hover {
   background-size: contain;
   border-radius: none;
   height: 52px;
-  margin-bottom: 30px;
+  margin: 10px 0 30px;
   transition: transform .2s;
   width: 90px;
 }
@@ -375,6 +381,7 @@ a:hover {
 .circle-4:hover,
 .circle-5:hover,
 .circle-6:hover {
+  cursor: pointer;
   transform: scale(1.1);
 }
 
@@ -400,6 +407,32 @@ a:hover {
 
 .circle-6 {
   background-image: url(../../media/img/plugin.svg);
+}
+
+.tab {
+  overflow: hidden;
+}
+
+.tablinks.active .circle-1,
+.tablinks.active .circle-2,
+.tablinks.active .circle-3,
+.tablinks.active .circle-4,
+.tablinks.active .circle-5,
+.tablinks.active .circle-6 {
+  transform: rotate(15deg);
+}
+
+.tabcontent {
+  display: none;
+  padding: 70px 180px;
+  background-color: #eaeaea;
+  height: 300px;
+  animation: fadeEffect 1.5s;
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
 }
 
 /* WHY ADOBE XD */
@@ -516,4 +549,36 @@ a:hover {
   font-family: "Source Serif Pro", serif;
   font-size: 24px;
   font-weight: 400;
+}
+
+/* FOOTER SOCIAL MEDIA */
+
+.social {
+  color: white;
+  padding: 70px 480px;
+}
+
+.social-icon {
+  background-color: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: none;
+  height: 22px;
+  margin-bottom: 30px;
+  transition: transform 0.2s;
+  width: 90px;
+  color: white;
+}
+
+.social-icon-1 {
+  background-image: url(../../media/img/twitter.svg);
+}
+
+.social-icon-2 {
+  background-image: url(../../media/img/facebook.svg);
+}
+
+.social-icon-3 {
+  background-image: url(../../media/img/instagram.svg);
 }

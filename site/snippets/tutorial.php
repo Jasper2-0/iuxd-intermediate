@@ -15,7 +15,7 @@
     <div id="tutorial-blok-left">
         <?= $page->tutorialtitle()->kirbytext() ?><br>
         <?= $page->tutorialtext()->kirbytext() ?> <br>
-        <a href="<?= $page->linktutorial()->kirbyurl() ?>">Download here</a>
+        <a href="<?= $page->linktutorial()->kirbyurl() ?>" target="_blank">Download here</a>
     </div>
 
     <div id="tutorial-blok-right">.</div>
