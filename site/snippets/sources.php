@@ -8,7 +8,7 @@
  */
 ?>
 
-<div class="sources" id="sources">
+<div class="sources">
 
     <div class="title">
         <h3>SOURCES</h3>
