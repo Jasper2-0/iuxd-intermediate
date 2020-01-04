@@ -14,7 +14,7 @@ Headertitle: #LET'S XD TOGETHER
 
 ----
 
-Headertext: Adobe XD is een User Experience design tool voor web en mobile apps. Het is beschikbaar voor macOS en Windows. De app is vector-based (paths). Er bestaat ook een Adobe XD mobile app. Hier in kun je makkelijker previews bekijken van je gemaakte app designs. XD is gemaakt om wireframes/designs te maken en simpele interactieve clickable prototypes.
+Headertext: Adobe XD is a User Experience design tool for web and mobile apps. It's available for macOS and Windows. The app is vector-based (paths). There is also an Adobe XD mobile app. The tool is particularly used to create wireframes/designs and simple interactive clickable prototypes. It's completely free and easy to use, even for beginners.
 
 ----
 
@@ -22,15 +22,15 @@ Featurestitle: ###FEATURES
 
 ----
 
-Whytitle: ###WHY ADOBE XD
+Whytitle: ###WHY ADOBE XD?
 
 ----
 
-Whytextone: Even though Adobe XD is still relatively new, the reception has been terrific. So I thought we’d do a quick-but-fun tutorial that illustrates how designing and prototyping with Adobe XD is wonderfully rolled into a single tool, without making the app feel too bulky. In fact, Adobe XD is pretty minimal and it’s really easy to use once you know how.
+Whytextone: Even though Adobe XD is still relatively new, it's becoming one of the best design tools on the market. With new updates all the time and great features. XD Seperates itself from other tools by their features like advanced animations, voice triggers and many more. Adobe XD makes it super-easy to quickly mockup a low-fidelity wireframe. Being able to design low-fidelity wireframes quickly means that we can focus on creating a layout that offers a terrific user experience.
 
 ----
 
-Whytexttwo: Adobe XD makes it super-easy to quickly mockup a low-fidelity wireframe. Being able to design low-fidelity wireframes quickly means that we can make huge strides towards to creating a layout that offers a terrific user experience, while not having to worry about the visuals too much (at first).
+Whytexttwo: Since Adobe XD has an option to collaborate, it makes it really easy for teams to share their work. You can also share your designs with customers. The app is great for prototyping with users aswell. XD Is linked to Adobe resources, so you can implement Adobe Fonts, icons and many more. XD offers a variety of many plugins, like stock photo's, calendars and many more. Adobe XD is focused on what the designers and users really need.
 
 ----
 
@@ -46,15 +46,15 @@ Video: https://www.youtube.com/embed/JqR-5nOPvjo
 
 ----
 
-Whotitle: ###WHO USES ADOBE XD
+Whotitle: ###WHO USES ADOBE XD?
 
 ----
 
-Whotextone: Interface/UX designers werkende binnen een creative agency of voor individueel gebruik. Designers/bedrijven die hun product willen testen met de doelgroep door middel van de prototype opties in Adobe XD. Persoonlijk gebruik voor designers in opleiding of freelancers.
+Whotextone: Adobe XD is great for all type of designers, like the ones working in a creative agency. It's also great for individual use, students and start-ups since it's free. Many design agencies use XD in order to test their products with their target audience. The tool is perfectly fit for teamwork. Since it's easy to learn XD, it's for beginners aswell as experts.
 
 ----
 
-Whotexttwo: Adobe XD wordt gebruikt in de middenfase van het ontwerpproces. In deze fase wordt het concept tot designs uitgewerkt. De designs kunnen door middel het prototyping in XD worden getest met gebruikers. Daarna komt pas de uitwerkingsfase en het realiseren van de app/website/product.
+Whotexttwo: Adobe XD is used during a large part of the design proces, usually in the middle and end of the proces. In these phases the concept is being tranformed into a high-fidelity prototype. During different iterations the product can be tested and evaluated. At the end the product can be realised and transferred to developers easily.
 
 ----
 
@@ -62,12 +62,24 @@ Tutorialtitle: #TRY OUR TUTORIAL
 
 ----
 
-Tutorialtext: Adobe XD is een User Experience design tool voor web en mobile apps. Het is beschikbaar voor macOS en Windows. De app is vector-based (paths). Er bestaat ook een Adobe XD mobile app. Hier in kun je makkelijker previews bekijken van je gemaakte app designs. XD is gemaakt om wireframes/designs te maken en simpele interactieve clickable prototypes.
-
-----
-
-Linkding: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa3f7174119511.5c23935987019.gif
+Tutorialtext: We made a tutorial of Adobe XD. This tutorial focuses on all the different features. It's fit for beginners and also for advanced user who want to practise their skills. Download our tutorial for free.
 
 ----
 
 Linktutorial: https://www.youtube.com/embed/lLuc6rtWkrM
+
+----
+
+Linkexample1: https://www.behance.net/gallery/37636333/Tap-Table-App-Design
+
+----
+
+Linkexample2: https://www.behance.net/gallery/38363019/Apple-Music-iOS-10
+
+----
+
+Linkexample3: https://www.behance.net/gallery/35138955/Tralley-App-Design-MadeWithAdobeXD
+
+----
+
+Linkding: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa3f7174119511.5c23935987019.gif

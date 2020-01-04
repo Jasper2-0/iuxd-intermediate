@@ -10,4 +10,30 @@
 
 <div class="footer">
 
+    <div class="social">
+
+        <div class="row">
+            <div class="column">
+                <div class="feature">
+                    <div class="social-icon social-icon-1"></div>
+                    Twitter
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="feature">
+                    <div class="social-icon social-icon-2"></div>
+                    Twitter
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="feature">
+                    <div class="social-icon social-icon-3"></div>
+                    Twitter
+                </div>
+            </div>
+        </div>
+
+    </div>
 </div>

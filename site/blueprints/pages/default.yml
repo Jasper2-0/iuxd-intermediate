@@ -74,3 +74,18 @@ fields:
     label: LINK TUT
     type: url
     size: small
+
+  linkexample1:
+    label: LINK EXAMPLE1
+    type: url
+    size: small
+
+  linkexample2:
+    label: LINK EXAMPLE2
+    type: url
+    size: small
+
+  linkexample3:
+    label: LINK EXAMPLE3
+    type: url
+    size: small
