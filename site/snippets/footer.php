@@ -16,21 +16,21 @@
             <div class="column">
                 <div class="feature">
                     <div class="social-icon social-icon-1"></div>
-                    Twitter
+                    <a href="<?= $page->linktwitter()->kirbyurl() ?>">Twitter</a>
                 </div>
             </div>
 
             <div class="column">
                 <div class="feature">
                     <div class="social-icon social-icon-2"></div>
-                    Twitter
+                    <a href="<?= $page->linkfacebook()->kirbyurl() ?>">Facebook</a>
                 </div>
             </div>
 
             <div class="column">
                 <div class="feature">
                     <div class="social-icon social-icon-3"></div>
-                    Twitter
+                    <a href="<?= $page->linkinstagram()->kirbyurl() ?>">Instagram</a>
                 </div>
             </div>
         </div>

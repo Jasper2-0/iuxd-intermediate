@@ -89,3 +89,18 @@ fields:
     label: LINK EXAMPLE3
     type: url
     size: small
+
+  linktwitter:
+    label: LINK TWITTER
+    type: url
+    size: small
+
+  linkfacebook:
+    label: LINK FACEBOOK
+    type: url
+    size: small
+
+  linkinstagram:
+    label: LINK INSTAGRAM
+    type: url
+    size: small

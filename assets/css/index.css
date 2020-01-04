@@ -233,14 +233,22 @@ main {
 
 /* MENU */
 
-#home, #features, #works, #tutorial, #sources {
+#home,
+#features,
+#works,
+#tutorial,
+#sources {
   height: 1px;
   position: absolute;
   top: -60px;
   width: 1px;
 }
 
-.intro, .features, .workexamples, .tutorial, .sources {
+.intro,
+.features,
+.workexamples,
+.tutorial,
+.sources {
   position: relative;
 }
 
@@ -371,7 +379,7 @@ a:hover {
   border-radius: none;
   height: 52px;
   margin: 10px 0 30px;
-  transition: transform .2s;
+  transition: transform 0.2s;
   width: 90px;
 }
 
@@ -431,8 +439,12 @@ a:hover {
 }
 
 @keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 /* WHY ADOBE XD */
@@ -510,11 +522,11 @@ a:hover {
 .work-image-2,
 .work-image-3 {
   background-color: #ffd9f2;
-  border: 2px solid #FFFFFF;
+  border: 2px solid #ffffff;
   height: 100%;
   margin-bottom: 30px;
   width: 100%;
-  transition: transform .4s;
+  transition: transform 0.4s;
 }
 
 .work-image-1:hover,
@@ -555,7 +567,7 @@ a:hover {
 
 .social {
   color: white;
-  padding: 70px 480px;
+  padding: 70px 380px;
 }
 
 .social-icon {
@@ -569,6 +581,20 @@ a:hover {
   transition: transform 0.2s;
   width: 90px;
   color: white;
+}
+
+.social a {
+  border: 0px;
+}
+
+.social a:hover {
+  border: 0px;
+  background-color: #121212;
+}
+
+.social a:active {
+  border: 0px;
+  background-color: #121212;
 }
 
 .social-icon-1 {
