@@ -1,9 +1,380 @@
-Title: My Awesome IUXD Topic
+Title: Design Sprints
+
+----
+
+Title-header: De Google Design Sprint
+
+----
+
+P-header: Een Design Sprint is een intensieve design-thinking workshop die een team van een vaag concept naar een user-validated prototype brengt in slechts vijf dagen.
+
+----
+
+Title-1: Wat is een Design Sprint?
+
+----
+
+Intro-1: Een design sprint is een proces van 5 dagen wat door multidisciplinaire teams gebruikt wordt voor het beantwoorden van kritische vraagstukken.
+
+----
+
+Wat:
+
+Een design sprint is een proces van 5 dagen wat door multidisciplinaire teams gebruikt wordt voor het beantwoorden van kritische vraagstukken. Een sprint helpt teams om snel en stapsgewijs van probleem naar geteste oplossing te komen en zo een proces van maanden designen, prototypen en testen naar slechts 5 dagen te brengen. Het kan worden gezien als een kijkje in de toekomst, je kan zien hoe gebruikers op je product (high-fidelity prototype) reageren voordat je veel tijd, geld en moeite steekt in het bouwen van een product. 
+
+Een design sprint gaat niet alleen om efficiëntie en het besparen van tijd. Het helpt ook om de ‘normale’ manier van werken te onderbreken en deze te vervangen voor een slimmere en meer effectieve manier van problemen oplossen, die gebruik maakt van ieders beste kwaliteit.
+
+----
+
+Usp1: Bespaar tijd door vergaderingen <br/> over te slaan
+
+----
+
+Usp2: Valideer snel <br/> al bestaande <br/> ideeën en visies
+
+----
+
+Usp3: Houd je team gefocust en enthousiast
+
+----
+
+Usp4: Kom er achter hoe de users op het product reageren
+
+----
+
+Usp5: Krijg een duidelijke koers; een product strategie en -visie
+
+----
+
+Waarom-title: Waarom een Design Sprint?
+
+----
+
+Waarvoor-title: Waarvoor gebruik je een Design Sprint?
+
+----
+
+Waarvoor-1: Voor de ontwikkeling van een nieuw product
+
+----
+
+Waarvoor-2: Voor het verbeteren van een bestaand product
+
+----
+
+Waarvoor-3: Voor het toevoegen van nieuwe productfunctionaliteiten
+
+----
+
+Waarvoor-4: Voor wanneer je een nieuwe markt wil betreden of doelgroep aan wilt spreken
+
+----
+
+Wanneer-title: Wanneer gebruik je een Design Sprint?
+
+----
+
+Wanneer-p: Een Design Sprint kan op verschillende momenten in het ontwerpproces worden ingezet. In de meeste gevallen wordt de Sprint ingezet om een project te kickstarten of doorstarten.
+
+----
+
+Title-2: Wanneer is een Design Sprint van goede kwaliteit?
+
+----
+
+Wanneer-1: Als er een <b>duidelijk vraagstuk</b> is geformuleerd.
+
+----
+
+Wanneer-2: Als de juiste mensen bij de Sprint worden betrokken.
+
+----
+
+Wanneer-3: Als er veel oplossingsrichtingen en risico’s zijn verkend.
+
+----
+
+Wanneer-4: Als er een goed testbaar prototype is gemaakt.
+
+----
+
+Wanneer-5: Als er aan het eind van de sprint een duidelijke koers is.
+
+----
+
+Wanneer-6: Als er goed is gekeken naar of de sprintonderdelen aansluiten op het vraagstuk.
+
+----
+
+Title-keuze: Welke rol wil je meer over weten?
+
+----
+
+Title-wie: Wie neemt deel aan een Design Sprint?
+
+----
+
+Title-deelnemers: Wie neemt deel aan een Sprint?
+
+----
+
+Deelnemers-introtekst: Een Design Sprint-team heeft meestal een gevarieerde samenstelling, idealiter bestaat het team uit 4 tot 8 personen. De deelnemers van de sprint vormen samen een multidisciplinair team, dit betekent dat er mensen van verschillende disciplines, dus bijvoorbeeld niet alleen designers, in één team samenwerken. Ook betekent dit dat er mensen van de klant aanwezig zullen zijn, door de klant zo nauw te betrekken gaat de communicatie sneller en kunnen de partijen elkaar leren kennen.
+
+----
+
+Facilitator: Facilitator
+
+----
+
+Product-owner: Decider
+
+----
+
+Visual-designer: Visual designer
+
+----
+
+Ux-designer: UX designer
+
+----
+
+Developer: Developer
+
+----
+
+Copy-writer: Copywriter
+
+----
+
+Maandag-description: De facilitator is de belangrijkste persoon in de Design Sprint. Hij/zij zorgt ervoor dat het team snapt wat de Design Sprint inhoudt en begeleidt hun stap voor stap door het proces heen. De facilitator is een neutraal persoon die goed kan bemiddelen tussen partijen en ervoor zorgt dat het team in staat is om de Sprint tot een goed einde te brengen.
+
+----
+
+Dinsdag-description: De decider is de persoon die het laatste woord heeft als er keuzes moeten worden gemaakt. Meestal wordt deze rol vervuld door de product owner, dit is iemand van de klant die precies weet wat de waarden en belangen van de klant zijn. Hij/zij waakt over de kwaliteit van de uitkomst van de Sprint.
+
+----
+
+Woensdag-description: De visual designer visualiseert alle ideeën en brengt ze tot leven. Ze zorgen ervoor dat er zoveel mogelijk wordt geschetst en getekend om de ‘show-don’t-tell’ aanpak na te streven. Uiteindelijk zorgen ze ervoor dat het design van het prototype er verzorgd en consistent uitziet.
+
+----
+
+Donderdag-description: De UX-designer is de representatie van de gebruiker. Ze hebben vaak al ervaring met brainstormen en concepting en zorgen ervoor dat er veel ideerichtingen worden verkend.
+
+----
+
+Vrijdag-description: Naast kennis van design, is er ook vaak technische kennis nodig. De developer denkt mee over de technische vaardigheden van het product en houdt zich eventueel bezig met het bouwen van het prototype.
+
+----
+
+Zaterdag-description: De laatste persoon zou bijvoorbeeld een copy writer kunnen zijn. Afhankelijk van de klant kan er behoefte zijn aan kennis over content of marketing. Hij of zij zorgt ervoor dat de content van het product klopt en logisch is en denkt na over hoe het product op de markt zou kunnen worden gebracht.
+
+----
+
+Deelnemer: Deelnemer
+
+----
+
+Text-facilitator: De facilitator zorgt ervoor dat het team snapt wat de Design Sprint inhoudt en begeleidt ze stap voor stap door de Sprint.
+
+----
+
+Nodig-facilitator-title: Wat heb je nodig voor een Design Sprint?
+
+----
+
+Nodig-facilitator-1: Een whiteboard en markers in verschillende kleuren
+
+----
+
+Nodig-facilitator-2: Post-its in verschillende kleuren
+
+----
+
+Nodig-facilitator-3: Genoeg A4 en A3-papier
+
+----
+
+Nodig-facilitator-4: Stiften in verschillende kleuren
+
+----
+
+Nodig-facilitator-5: Voting dots (cirkelvormige stickers)
+
+----
+
+Nodig-facilitator-6: Een timer (geen telefoon)
+
+----
+
+Voorbereiden-facilitator-title: Hoe bereid je een Design Sprint voor?
+
+----
+
+Voorbereiden-facilitator-1: Lees het Sprint boek van Jake Knapp
+
+----
+
+Voorbereiden-facilitator-2: Stel gedrags- regels op voor tijdens de Sprint
+
+----
+
+Voorbereiden-facilitator-3: Boek een ruimte met daglicht en whiteboards
+
+----
+
+Voorbereiden-facilitator-4: Boek een test- ruimte en zoek respondenten
+
+----
+
+Skills-facilitator-title: Welke skills heb je nodig?
+
+----
+
+Skills-facilitator-p: Als facilitator zijn er een aantal belangrijke skills die je in huis moet hebben. Ten eerste is het belangrijk dat de facilitator een echte leider is en dat hij/zij het overzicht kan bewaren. Daarnaast is de facilitator een neutraal persoon en moet hij/zij in staat zijn om te bemiddelen tussen verschillende partijen, om risico's te nemen en om knopen door te hakken. Ook is de facilitator verantwoordelijk voor het werk van het team en moet hij/zij snappen wanneer het team aanmoediging nodig heeft of wanneer ze juist met rust gelaten moeten worden.
+
+----
+
+Links-title: Handige resources
+
+----
+
+Links-list-1: https://www.thesprintbook.com/
+
+----
+
+Links-list-2: https://www.thesprintbook.com/how
+
+----
+
+Links-list-3: https://www.gv.com/sprint/
+
+----
+
+Links-list-4: https://hike.one/update/your-first-design-sprint-do-these-3-things-first
+
+----
+
+Links-list-5: https://designsprintkit.withgoogle.com/introduction/overview
+
+----
+
+Links-list-1b: https://www.thesprintbook.com/how
+
+----
+
+Links-list-2b: https://designsprintkit.withgoogle.com/introduction/overview
+
+----
+
+Border-deelnemer: De deelnemers voeren de stappen van de Design Sprint uit en bedenken en visualiseren uiteindelijk een tof concept.
+
+----
+
+Nodig-deelnemer-title: Wat heb je nodig voor een Design Sprint?
+
+----
+
+Nodig-deelnemer-1: Een laptop met tools en programma's die bij jouw rol passen
+
+----
+
+Nodig-deelnemer-2: Een lichte en gezonde lunch indien dit niet wordt verzorgd
+
+----
+
+Nodig-deelnemer-3: De juiste mindset!
+
+----
+
+Skills-deelnemer-title: Welke skills heb je nodig?
+
+----
+
+Skills-deelnemer-p: Als deelnemer is de juiste mindset het aller belangrijkste bij een Design Sprint. Ten eerste moeten de deelnemers alle kennis en ideeën die ze al hebben loslaten en openminded durven zijn. Daarnaast zijn Sprint dagen vaak erg lang en kunnen ze uitlopen. Daarom moeten de deelnemers er tijd voor over hebben en goed hun focus kunnen behouden. Verder is het heel belangrijk dat iedereen de "show-don't-tell" aanpak nastreeft en zoveel mogelijk schetst en tekent. Specifieke skills verschillen per rol, daarom moeten de deelnemers goed kunnen samenwerken.
+
+----
+
+Title-verloop: Hoe verloopt een Google Design Sprint?
+
+----
+
+P-verloop: Elke dag van de Google Design Sprint dient voor iets anders. Zo wordt maandag het vraagstuk ontleed en wordt er dinsdag nagedacht over zoveel mogelijk creatieve oplossingen voor het probleem. Om de vijf dagen van de Sprint inzichtelijk te maken zijn ze in een Trellobord verwerkt. Hier staat per dag beschreven welke onderdelen er moeten worden uitgevoerd.
+
+----
+
+Links-list:
+
+- https://www.thesprintbook.com/
+- https://www.thesprintbook.com/how 
+- https://www.gv.com/sprint/
+- https://hike.one/update/your-first-design-sprint-do-these-3-things-first
+- https://designsprintkit.withgoogle.com/introduction/overview
+
+----
+
+Border-facilitator: De deelnemers voeren de stappen van de Design Sprint uit en bedenken en visualiseren uiteindelijk een tof concept.
+
+----
+
+Wie: Een Design Sprint-team heeft meestal een gevarieerde samenstelling, idealiter bestaat het team uit 4 tot 8 personen. De deelnemers van de sprint vormen samen een multidisciplinair team, dit betekent dat er mensen van verschillende disciplines, dus bijvoorbeeld niet alleen designers, in één team samenwerken. Ook betekent dit dat er mensen van de klant aanwezig zullen zijn, door de klant zo nauw te betrekken gaat de communicatie sneller en kunnen de partijen elkaar leren kennen.
+
+----
+
+Wie1: Facilitator <br/> / strateeg
+
+----
+
+Wie2: Product <br/> owner
+
+----
+
+Wie3: Visual <br/> designer
+
+----
+
+Wie4: UX <br/> designer
+
+----
+
+Wie5: Technicus <br/> / developer
+
+----
+
+Wie6: Copy writer <br/> / marketeer
+
+----
+
+Maandag: Maandag
+
+----
+
+Dinsdag: Dinsdag
+
+----
+
+Woensdag: Woensdag
+
+----
+
+Donderdag: Donderdag
+
+----
+
+Vrijdag: Vrijdag
+
+----
+
+Wanneer: Dit is checklist puntje 1
+
+----
+
+Nieuw: Is dit bijgewerkt?
 
 ----
 
 Text:
 
-Hi IUXD Student, this is the IUXD-Intermediate Template Repository.
+# Wat is een Design Sprint?
+Een design sprint is een proces van 5 dagen wat door multidisciplinaire teams gebruikt wordt voor het beantwoorden van kritische vraagstukken. Een sprint helpt teams om snel en stapsgewijs van probleem naar geteste oplossing te komen en zo een proces van maanden designen, prototypen en testen naar slechts 5 dagen te brengen. Het kan worden gezien als een kijkje in de toekomst, je kan zien hoe gebruikers op je product (high-fidelity prototype) reageren voordat je veel tijd, geld en moeite steekt in het bouwen van een product. 
 
-As you can see Kirby and Bootstrap have been provided. Good luck with realising the 0.1 one pager!
+Een design sprint gaat niet alleen om efficiëntie en het besparen van tijd. Het helpt ook om de ‘normale’ manier van werken te onderbreken en deze te vervangen voor een slimmere en meer effectieve manier van problemen oplossen, die gebruik maakt van ieders beste kwaliteit.

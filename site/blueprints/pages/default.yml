@@ -1,8 +1,300 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
+  title_header:
+    label: title_header
+    type: textarea
+    size: small
+  p_header:
+    label: p_header
+    type: textarea
+    size: small
+  title_1:
+    label: title_1
+    type: textarea
+    size: small
+  intro_1:
+    label: intro_1
+    type: textarea
+    size: small
+  wat:
+    label: wat
     type: textarea
     size: large
-
+  usp1:
+    label: usp1
+    type: textarea
+    size: small
+  usp2:
+    label: usp2
+    type: textarea
+    size: small
+  usp3:
+    label: usp3
+    type: textarea
+    size: small
+  usp4:
+    label: usp4
+    type: textarea
+    size: small
+  usp5:
+    label: usp5
+    type: textarea
+    size: small
+  waarom_title:
+    label: waarom_title
+    type: textarea
+    size: small
+  waarvoor_title:
+    label: waarvoor_title
+    type: textarea
+    size: small
+  waarvoor_1:
+    label: waarvoor_1
+    type: textarea
+    size: small
+  waarvoor_2:
+    label: waarvoor_2
+    type: textarea
+    size: small
+  waarvoor_3:
+    label: waarvoor_3
+    type: textarea
+    size: small
+  waarvoor_4:
+    label: waarvoor_4
+    type: textarea
+    size: small
+  wanneer_title:
+    label: wanneer_title
+    type: textarea
+    size: small
+  wanneer_p:
+    label: wanneer_p
+    type: textarea
+    size: small
+  title_2:
+    label: title_2
+    type: textarea
+    size: small
+  wanneer_1:
+    label: wanneer_1
+    type: textarea
+    size: small
+  wanneer_2:
+    label: wanneer_2
+    type: textarea
+    size: small
+  wanneer_3:
+    label: wanneer_3
+    type: textarea
+    size: small
+  wanneer_4:
+    label: wanneer_4
+    type: textarea
+    size: small
+  wanneer_5:
+    label: wanneer_5
+    type: textarea
+    size: small
+  wanneer_6:
+    label: wanneer_6
+    type: textarea
+    size: small
+  title_keuze:
+    label: title_keuze
+    type: textarea
+    size: small
+  title_wie:
+    label: title_wie
+    type: textarea
+    size: small
+  title_deelnemers:
+    label: title_deelnemers
+    type: textarea
+    size: small
+  deelnemers_introtekst:
+    label: deelnemers_introtekst
+    type: textarea
+    size: medium
+  facilitator:
+    label: facilitator
+    type: textarea
+    size: small
+  product_owner:
+    label: product_owner
+    type: textarea
+    size: small
+  visual_designer:
+    label: visual_designer
+    type: textarea
+    size: small
+  ux_designer:
+    label: ux_designer
+    type: textarea
+    size: small
+  developer:
+    label: developer
+    type: textarea
+    size: small
+  copy_writer:
+    label: copy_writer
+    type: textarea
+    size: small
+  maandag_description:
+    label: maandag_description
+    type: textarea
+    size: small
+  dinsdag_description:
+    label: dinsdag_description
+    type: textarea
+    size: small
+  woensdag_description:
+    label: woensdag_description
+    type: textarea
+    size: small
+  donderdag_description:
+    label: donderdag_description
+    type: textarea
+    size: small
+  vrijdag_description:
+    label: vrijdag_description
+    type: textarea
+    size: small
+  zaterdag_description:
+    label: zaterdag_description
+    type: textarea
+    size: small
+  deelnemer:
+    label: deelnemer
+    type: textarea
+    size: small
+  text_facilitator:
+    label: text_facilitator
+    type: textarea
+    size: small
+  nodig_facilitator_title:
+    label: nodig_facilitator_title
+    type: textarea
+    size: small
+  nodig_facilitator_1:
+    label: nodig_facilitator_1
+    type: textarea
+    size: small
+  nodig_facilitator_2:
+    label: nodig_facilitator_2
+    type: textarea
+    size: small
+  nodig_facilitator_3:
+    label: nodig_facilitator_3
+    type: textarea
+    size: small
+  nodig_facilitator_4:
+    label: nodig_facilitator_4
+    type: textarea
+    size: small
+  nodig_facilitator_5:
+    label: nodig_facilitator_5
+    type: textarea
+    size: small
+  nodig_facilitator_6:
+    label: nodig_facilitator_6
+    type: textarea
+    size: small
+  voorbereiden_facilitator_title:
+    label: voorbereiden_facilitator_title
+    type: textarea
+    size: small
+  voorbereiden_facilitator_1:
+    label: voorbereiden_facilitator_1
+    type: textarea
+    size: small
+  voorbereiden_facilitator_2:
+    label: voorbereiden_facilitator_2
+    type: textarea
+    size: small
+  voorbereiden_facilitator_3:
+    label: voorbereiden_facilitator_3
+    type: textarea
+    size: small
+  voorbereiden_facilitator_4:
+    label: voorbereiden_facilitator_4
+    type: textarea
+    size: small
+  skills_facilitator_title:
+    label: skills_facilitator_title
+    type: textarea
+    size: small
+  skills_facilitator_p:
+    label: skills_facilitator_p
+    type: textarea
+    size: small
+  links_title:
+    label: links_title
+    type: textarea
+    size: small
+  links_list_1:
+    label: links_list_1
+    type: textarea
+    size: small
+  links_list_2:
+    label: links_list_2
+    type: textarea
+    size: small
+  links_list_3:
+    label: links_list_3
+    type: textarea
+    size: small
+  links_list_4:
+    label: links_list_4
+    type: textarea
+    size: small
+  links_list_5:
+    label: links_list_5
+    type: textarea
+    size: small
+  links_list_1b:
+    label: links_list_1b
+    type: textarea
+    size: small
+  links_list_2b:
+    label: links_list_2b
+    type: textarea
+    size: small
+  border_deelnemer:
+    label: border_deelnemer
+    type: textarea
+    size: small
+  nodig_deelnemer_title:
+    label: nodig_deelnemer_title
+    type: textarea
+    size: small
+  nodig_deelnemer_1:
+    label: nodig_deelnemer_1
+    type: textarea
+    size: small
+  nodig_deelnemer_2:
+    label: nodig_deelnemer_2
+    type: textarea
+    size: small
+  nodig_deelnemer_3:
+    label: nodig_deelnemer_3
+    type: textarea
+    size: small
+  skills_deelnemer_title:
+    label: skills_deelnemer_title
+    type: textarea
+    size: small
+  skills_deelnemer_p:
+    label: skills_deelnemer_p
+    type: textarea
+    size: small
+  title_verloop:
+    label: title_verloop
+    type: textarea
+    size: small
+  p_verloop:
+    label: p_verloop
+    type: textarea
+    size: small
+  
