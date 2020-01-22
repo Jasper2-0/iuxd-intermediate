@@ -58,47 +58,54 @@
 </div>
 
 <div id="animations" class="tabcontent">
-  <h3>Animations</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Animations</h3>
+    <p>This feature is used to animate prototypes to make it look like a real working app. Create custom animations and
+        transitions with a wide variety of settings using timing, effects, triggers and much more.</p>
 </div>
 
 <div id="voice" class="tabcontent">
-  <h3>Voice Triggers</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Voice Triggers</h3>
+    <p>Apps can be designed using voice commands. In addition, what users create for smart assistants can be previewed
+        as well.</p>
 </div>
 
 <div id="collab" class="tabcontent">
-  <h3>Collaboration</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Collaboration</h3>
+    <p>Collaborate in real time with other designers. Coediting lets you and your team work together in the same
+        document at the same time, speeding up your workflow and eliminating duplicative or conflicting work.</p>
 </div>
 
 <div id="prototypes" class="tabcontent">
-  <h3>Prototypes</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Prototypes</h3>
+    <p>Creates animated prototypes through linking artboards. These prototypes can be previewed on supported mobile
+        devices.</p>
 </div>
 
 <div id="grids" class="tabcontent">
-  <h3>Repeatable Grids</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Repeatable Grids</h3>
+    <p>Select items in your design, such as a contact list or photo gallery, and replicate them horizontally or
+        vertically as many times as you want — all your styles and spacing stay intact. Update an element once, and your
+        changes will update everywhere</p>
 </div>
 
 <div id="plugins" class="tabcontent">
-  <h3>Plug-ins</h3>
-  <p>This is a text about the feature above.</p>
+    <h3>Plug-ins</h3>
+    <p>XD is compatible with custom plugins that add additional features and uses. Plugins range from design to
+        functionality, automation and animation.</p>
 </div>
 
 <script>
 function openCity(evt, subject) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(subject).style.display = "block";
-  evt.currentTarget.className += " active";
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(subject).style.display = "block";
+    evt.currentTarget.className += " active";
 }
 </script>
