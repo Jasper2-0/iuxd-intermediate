@@ -517,6 +517,11 @@ a:hover {
   display: flex;
 }
 
+.dark {
+  background-color: #121212;
+  color: white;
+}
+
 .adobexd p {
   flex: 1;
   padding: 0 40px;

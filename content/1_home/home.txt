@@ -14,7 +14,7 @@ Headertitle: #LET'S XD TOGETHER
 
 ----
 
-Headertext: Adobe XD is a User Experience design tool for web and mobile apps. It's available for macOS and Windows. The app is vector-based (paths). There is also an Adobe XD mobile app. The tool is particularly used to create wireframes/designs and simple interactive clickable prototypes. It's completely free and easy to use, even for beginners.
+Headertext: Since the beginning Adobe XD was positioned as a “product from designers to designers”. Every month, new sets of features are rolled out. It has become a major player in the software design space for its speed, cost effectiveness, operating system support, and advanced prototyping tools. Adobe XD is a User Experience design tool to create designs and interactive prototypes.
 
 ----
 
@@ -26,11 +26,23 @@ Whytitle: ###WHY ADOBE XD?
 
 ----
 
-Whytextone: Even though Adobe XD is still relatively new, it's becoming one of the best design tools on the market. With new updates all the time and great features. XD Seperates itself from other tools by their features like advanced animations, voice triggers and many more. Adobe XD makes it super-easy to quickly mockup a low-fidelity wireframe. Being able to design low-fidelity wireframes quickly means that we can focus on creating a layout that offers a terrific user experience.
+Whytextone: Adobe XD is available for both macOS and Windows. It's completely free and easy to use, even for beginners. There is also an Adobe XD mobile app. Even though Adobe XD is still relatively new, it's becoming one of the best design tools on the market. With new updates all the time and great features. XD Seperates itself from other tools  (like Sketch, Figma, Illustrator) by their features like advanced animations, voice triggers, repeat grid and many more. Adobe XD makes it super-easy to quickly create wireframes. Being able to design low-fidelity prototypes quickly means that we can focus on creating a layout that offers a terrific user experience.
 
 ----
 
-Whytexttwo: Since Adobe XD has an option to collaborate, it makes it really easy for teams to share their work. You can also share your designs with customers. The app is great for prototyping with users aswell. XD Is linked to Adobe resources, so you can implement Adobe Fonts, icons and many more. XD offers a variety of many plugins, like stock photo's, calendars and many more. Adobe XD is focused on what the designers and users really need.
+Whytexttwo: Since Adobe XD has an option to collaborate, it makes it really easy for teams to share their work. You can also share your designs with customers. The app is great for prototyping with users. XD Is linked to Adobe resources, so you can implement Adobe Fonts, icons and much more, super quickly. XD offers a variety of many plugins, like stock photo's, calendars and many more.  XD's interface is easy to understand and similar to other design tools. Adobe XD is focused on what the designers and users really need. Hence why they keep improving themselves continuously and adapt to the users needs by bringing you new updates all the time.
+
+----
+
+Moretitle: ###RECOMMENDATIONS
+
+----
+
+Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. I would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). I do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case I´d recommend to use Sketch instead.
+
+----
+
+Moretexttwo: If you need more dynamic prototyping than just transitions and states, (e.g. complex logic and/or dynamic states within one screen). In that case I either recommend to go for a tool such as Axure, or prototype directly within the browser, using HTML & CSS. For co-editing and for Mac & Windows users both Figma and Adobe XD are recommended. They have alot of features in common, it juse depends on which you prefer to work with. They are both updating all the time.
 
 ----
 
@@ -54,11 +66,11 @@ Whotitle: ###WHO USES ADOBE XD?
 
 ----
 
-Whotextone: Adobe XD is great for all type of designers, like the ones working in a creative agency. It's also great for individual use, students and start-ups since it's free. Many design agencies use XD in order to test their products with their target audience. The tool is perfectly fit for teamwork. Since it's easy to learn XD, it's for beginners aswell as experts.
+Whotextone: Adobe XD is great for all type of designers, like the people working in a creative agency. It's also great for individual use, students and start-ups since it's free. Many design agencies use XD in order to test their products with their target audience. The tool is perfectly fit for teamwork since you can use co-editing. XD Is very easy to understand for beginners. Especially if you have worked with other tools before. Even though there are tons of tutorials out there just in case you still can't figure it out.
 
 ----
 
-Whotexttwo: Adobe XD is used during a large part of the design proces, usually in the middle and end of the proces. In these phases the concept is being tranformed into a high-fidelity prototype. During different iterations the product can be tested and evaluated. At the end the product can be realised and transferred to developers easily.
+Whotexttwo: Adobe XD is used during a large part of the design proces, usually in the middle and end of the design proces. In these phases the concept is being tranformed from wireframes into a high-fidelity prototype. During different iterations the product can be tested and evaluated. At the end of the proces, when the designs are finished the product can be realised and transferred to developers easily. Things like color codes, pixel sizes, margins and paddings can be easily found and implemented into the app or website.
 
 ----
 
@@ -86,15 +98,15 @@ Linkexample3: https://www.behance.net/gallery/35138955/Tralley-App-Design-MadeWi
 
 ----
 
-Linktwitter: 
+Linktwitter: https://twitter.com/adobexd
 
 ----
 
-Linkfacebook: 
+Linkfacebook: https://www.facebook.com/adobexd
 
 ----
 
-Linkinstagram: 
+Linkinstagram: https://www.instagram.com/xd.adobe/
 
 ----
 

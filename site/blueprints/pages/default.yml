@@ -33,6 +33,19 @@ fields:
     type: textarea
     size: small
 
+  moretitle:
+    label: MORE TITLE
+    type: text
+    size: small
+  moretextone:
+    label: More / Text one
+    type: textarea
+    size: small
+  moretexttwo:
+    label: More / Text two
+    type: textarea
+    size: small
+
   quotetext:
     label: QUOTE
     type: text
