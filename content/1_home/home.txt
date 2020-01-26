@@ -38,6 +38,10 @@ Quotetext: “If you think good design is expensive, you should look at the cost
 
 ----
 
+Prosconstitle: ###PROS AND CONS OF ADOBE XD
+
+----
+
 Linksix: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa3f7174119511.5c23935987019.gif
 
 ----
@@ -62,7 +66,7 @@ Tutorialtitle: #TRY OUR TUTORIAL
 
 ----
 
-Tutorialtext: We made a tutorial of Adobe XD. This tutorial focuses on all the different features. It's fit for beginners and also for advanced user who want to practise their skills. Download our tutorial for free.
+Tutorialtext: This tutorial focuses on all the different features of Adobe XD. If you’re a beginner, this tutorial is a great start to learn what you can achieve with this tool. Step by step you can follow our instructions to make a functional prototype by using features such as repeatable grids and animations.
 
 ----
 
@@ -79,6 +83,18 @@ Linkexample2: https://www.behance.net/gallery/38363019/Apple-Music-iOS-10
 ----
 
 Linkexample3: https://www.behance.net/gallery/35138955/Tralley-App-Design-MadeWithAdobeXD
+
+----
+
+Linktwitter: 
+
+----
+
+Linkfacebook: 
+
+----
+
+Linkinstagram: 
 
 ----
 

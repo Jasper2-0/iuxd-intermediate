@@ -10,9 +10,13 @@
 
 <header class="intro">
     <div id="home"></div>
-    <div id="intro-blok-left">.</div>
-    <div id="intro-blok-right">
-        <?= $page->headertitle()->kirbytext() ?>
-        <?= $page->headertext()->kirbytext() ?>
+    <div class="col-md-6 col-sm-12">
+        <div class="intro-block-left"></div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+        <div class="intro-block-right">
+            <?= $page->headertitle()->kirbytext() ?>
+            <?= $page->headertext()->kirbytext() ?>
+        </div>
     </div>
 </header>

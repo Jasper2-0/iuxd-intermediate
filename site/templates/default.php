@@ -24,8 +24,9 @@
     <?php snippet("features")?>
     <?php snippet("why")?>
     <?php snippet("video")?>
-    <?php snippet("quote")?>
     <?php snippet("who")?>
+    <?php snippet("quote")?>
+    <?php snippet("proscons")?>
     <?php snippet("examples")?>
     <?php snippet("tutorial")?>
     <?php snippet("sources")?>

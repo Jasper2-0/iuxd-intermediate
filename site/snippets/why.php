@@ -16,10 +16,10 @@
 
     <div class="adobexd-why">
         <div class="row">
-            <div class="col">
-                <?= $page->whytextone()->kirbytext() ?>
+            <div class="col-md-6 col-sm-12">
+                <?= $page->whytextone()->kirbytext() ?><br />
             </div>
-            <div class="col">
+            <div class="col-md-6 col-sm-12">
                 <?= $page->whytexttwo()->kirbytext() ?>
             </div>
         </div>

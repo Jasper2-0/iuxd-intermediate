@@ -12,12 +12,16 @@
 
 <div id="tutorial"></div>
 
-    <div id="tutorial-blok-left">
-        <?= $page->tutorialtitle()->kirbytext() ?><br>
-        <?= $page->tutorialtext()->kirbytext() ?> <br>
-        <a href="<?= $page->linktutorial()->kirbyurl() ?>" target="_blank">Download here</a>
-    </div>
+    <div class="row">
+        <div class="col-md-6 col-sm-12">
+            <?= $page->tutorialtitle()->kirbytext() ?><br>
+            <?= $page->tutorialtext()->kirbytext() ?> <br>
+            <a href="<?= $page->linktutorial()->kirbyurl() ?>" target="_blank">Download here</a>
+        </div>
 
-    <div id="tutorial-blok-right">.</div>
+        <div class="col-md-6 col-sm-12">
+            <div class="tut-img"></div>
+        </div>
+    </div>
 
 </div>

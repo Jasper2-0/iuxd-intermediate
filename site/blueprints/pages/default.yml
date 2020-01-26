@@ -61,6 +61,11 @@ fields:
     type: textarea
     size: small
 
+  prosconstitle:
+    label: PROS CONS TITLE
+    type: text
+    size: small
+
   tutorialtitle:
     label: TUT TITLE
     type: text

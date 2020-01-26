@@ -69,9 +69,20 @@ img {
 }
 
 .header .logo {
-  display: block;
-  margin-bottom: 1.5rem;
-  padding: 0.5rem 0;
+  margin-bottom: 0;
+}
+.header {
+  flex-direction: row;
+  justify-content: space-between;
+}
+.menu {
+  margin-right: -0.75rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .header .logo {
+    display: none;
+  }
 }
 
 .menu a {
@@ -80,19 +91,6 @@ img {
 
 .menu a[aria-current] {
   border-bottom: 2px solid #000;
-}
-
-@media screen and (min-width: 40rem) {
-  .header .logo {
-    margin-bottom: 0;
-  }
-  .header {
-    flex-direction: row;
-    justify-content: space-between;
-  }
-  .menu {
-    margin-right: -0.75rem;
-  }
 }
 
 main {
@@ -107,62 +105,86 @@ main {
 .intro {
   align-items: center;
   background-image: url(../../media/img/apple-comp.jpg);
+  color: #ffffff;
   display: flex;
-  height: 400px;
+  min-height: 400px;
   justify-content: center;
-  padding: 0 150px;
-  text-align: center;
+  padding: 50px 30px;
+  text-align: left;
   margin-top: 60px;
 }
 
-#intro-blok-left {
+.intro-block-left {
   background-image: url(../../media/img/xd-logo.png);
   background-position: center;
   background-repeat: no-repeat;
-  height: 280px;
-  width: 220px;
   background-size: contain;
   flex: 1;
+  float: right;
+  height: 280px;
+  width: 260px;
+  margin: 0 30px 0 0;
 }
 
-#intro-blok-right {
-  color: #ffffff;
-  flex: 1;
-  text-align: left;
+.intro-block-right {
+  max-width: 560px;
+  margin: 0 0 0 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .intro {
+    flex-direction: column;
+  }
+
+  .intro-block-left {
+    float: none;
+    margin: 0 0 30px 0;
+    width: auto;
+  }
+
+  .intro-block-right {
+    margin: 0;
+  }
 }
 
 .tutorial {
   align-items: center;
   background-color: #121212;
+  color: #ffffff;
   display: flex;
   height: 400px;
   justify-content: center;
-  padding: 0 150px;
-  text-align: center;
+  padding: 70px 150px;
+  text-align: left;
 }
 
-#tutorial-blok-right {
+.tutorial a {
+  color: #ff26be;
+  text-decoration: underline;
+}
+
+.tut-img {
   background-image: url(../../media/img/workshop1.PNG);
   background-position: center;
   background-repeat: no-repeat;
-  padding-left: 50px;
   height: 280px;
-  width: 220px;
+  width: 100%;
   background-size: contain;
   background-clip: content-box;
   flex: 1;
 }
 
-#tutorial-blok-left {
-  color: #ffffff;
-  flex: 1;
-  text-align: left;
-  padding-right: 50px;
-}
+@media only screen and (max-width: 1024px) {
+  .tutorial {
+    height: auto;
+    padding: 70px 40px;
+  }
 
-#tutorial-blok-left a {
-  color: #ff26be;
-  text-decoration: underline;
+  .tut-img {
+    height: 195px;
+    margin-top: 30px;
+    width: 100%;
+  }
 }
 
 .intro h1 {
@@ -171,10 +193,6 @@ main {
   font-size: 40px;
   font-weight: 700;
   z-index: 1;
-}
-
-.intro p {
-  padding-right: 140px;
 }
 
 .tags {
@@ -302,7 +320,30 @@ a:hover {
   padding: 70px 180px;
 }
 
+@media only screen and (max-width: 1024px) {
+    .features,
+    .adobexd,
+    .video,
+    .sources,
+    .quote,
+    .workexamples,
+    .footert {
+    padding: 70px 0;
+  }
+
+  .features .row {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  
+  .tablinks {
+    margin-bottom: 30px;
+    width: 33.3333%;
+  }
+}
+
 .features,
+.workexamples,
 .sources {
   background-color: #f6f6f6;
 }
@@ -318,6 +359,13 @@ a:hover {
   justify-content: center;
 }
 
+@media only screen and (max-width: 768px) {
+  iframe {
+    height: 300px;
+    width: 100%;
+  }
+}
+
 .quote {
   background-color: #ff26be;
 }
@@ -327,10 +375,6 @@ a:hover {
   display: flex;
   justify-content: center;
   padding: 50px 180px 50px 180px;
-}
-
-.workexamples {
-  background-color: #ffffff;
 }
 
 .footer {
@@ -438,6 +482,26 @@ a:hover {
   animation: fadeEffect 1.5s;
 }
 
+.tabcontent h3 {
+  margin-bottom: 30px;
+}
+
+.tabcontent p {
+  width: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  .tabcontent {
+    height: auto;
+    padding: 70px 40px;
+  }
+
+  .tabcontent p {
+    width: 100%;
+  }
+  
+}
+
 @keyframes fadeEffect {
   from {
     opacity: 0;
@@ -471,6 +535,19 @@ a:hover {
 
 .source {
   padding: 0 15px 30px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .source {
+    padding: 0 30px 30px;
+    text-align: left;
+  }
+
+  .source h4 {
+    margin-bottom: 5px;
+  }
+
 }
 
 /* QUOTE */
@@ -607,4 +684,10 @@ a:hover {
 
 .social-icon-3 {
   background-image: url(../../media/img/instagram.svg);
+}
+
+@media only screen and (max-width: 1200px) {
+  .social {
+    padding: 70px 0;
+  }
 }
