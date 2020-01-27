@@ -553,9 +553,7 @@ ul li::before {
 }
 
 .dark {
-  background-image: url(../../media/img/Illustration3.svg);
-  background-size: cover;
-  background-position: center;
+  background-image: none;
   background-color: #121212;
   color: white;
 }
