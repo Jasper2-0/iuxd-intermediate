@@ -16,26 +16,26 @@
 
     <div class="adobexd-why">
         <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="offset-1 col-md-5 col-sm-12">
                 <h3>Pros</h3>
-                    <p>
-                        - All types of artboards available
-                        - Simple and clean interface
-                        - Repeat grid feature
-                        - You can add animations into your prototype
-                        - You can trigger your prototype by using voice triggers
-                        - You’re able to view your live prototype on your smartphone
-                    </p>
+                    <ul>
+                        <li>- All types of artboards available</li>
+                        <li>- Simple and clean interface</li>
+                        <li>- Repeat grid feature</li>
+                        <li>- You can add animations into your prototype</li>
+                        <li> - You can trigger your prototype by using voice triggers</li>
+                        <li> - You’re able to view your live prototype on your smartphone</li>
+                    </ul>
             </div>
-            <div class="col-md-6 col-sm-12 marg">
+            <div class="offset-1 col-md-5 col-sm-12 marg">
                 <h3>Cons</h3>
-                    <p>
-                        - The current collaborative editing function is still beta
-                        - The animation possibilities are less advanced than what’s possible in Principle
-                        - You can only view the live prototyping on devices with Mac OS
-                        - It’s not possible to design customised shapes
+                    <ul>
+                        <li>- The current collaborative editing function is still beta</li>
+                        <li>- The animation possibilities are less advanced than what’s possible in Principle</li>
+                        <li>- You can only view the live prototyping on devices with Mac OS</li>
+                        <li>- It’s not possible to design customised shapes</li>
 
-                    </p>
+                    </ul>
             </div>
             </div>
         </div>

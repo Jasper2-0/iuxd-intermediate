@@ -70,7 +70,7 @@ Whotexttwo: Adobe XD is used during a large part of the design proces, usually i
 
 ----
 
-Prosconstitle: ###PROS AND CONS OF ADOBE XD
+Prosconstitle: ###PROS AND CONS
 
 ----
 
@@ -82,7 +82,7 @@ Tutorialtext: This tutorial focuses on all the different features of Adobe XD. I
 
 ----
 
-Linktutorial: https://www.youtube.com/embed/lLuc6rtWkrM
+Linktutorial: https://drive.google.com/open?id=1SYUyY6oEObV7sh8efhSal-fgWuUK1Eyp
 
 ----
 
