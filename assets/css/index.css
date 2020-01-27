@@ -390,6 +390,8 @@ a:hover {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-left: 0;
+  margin-right: 0;
   width: 100%;
 }
 
