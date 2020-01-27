@@ -38,19 +38,15 @@ Moretitle: ###RECOMMENDATIONS
 
 ----
 
-Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. I would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). I do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case I´d recommend to use Sketch instead.
+Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. We would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). We do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case I´d recommend to use Sketch instead.
 
 ----
 
-Moretexttwo: If you need more dynamic prototyping than just transitions and states, (e.g. complex logic and/or dynamic states within one screen). In that case I either recommend to go for a tool such as Axure, or prototype directly within the browser, using HTML & CSS. For co-editing and for Mac & Windows users both Figma and Adobe XD are recommended. They have alot of features in common, it juse depends on which you prefer to work with. They are both updating all the time.
+Moretexttwo: If you need more dynamic prototyping than just transitions and states, (e.g. complex logic and/or dynamic states within one screen). In that case we either recommend to go for a tool such as Axure, or prototype directly within the browser, using HTML & CSS. For co-editing and for Mac & Windows users both Figma and Adobe XD are recommended. They have a lot of features in common, it just depends on which you prefer to work with. They are both updating all the time.
 
 ----
 
 Quotetext: “If you think good design is expensive, you should look at the cost of bad design." - Dr. Ralf Speth
-
-----
-
-Prosconstitle: ###PROS AND CONS OF ADOBE XD
 
 ----
 
@@ -71,6 +67,10 @@ Whotextone: Adobe XD is great for all type of designers, like the people working
 ----
 
 Whotexttwo: Adobe XD is used during a large part of the design proces, usually in the middle and end of the design proces. In these phases the concept is being tranformed from wireframes into a high-fidelity prototype. During different iterations the product can be tested and evaluated. At the end of the proces, when the designs are finished the product can be realised and transferred to developers easily. Things like color codes, pixel sizes, margins and paddings can be easily found and implemented into the app or website.
+
+----
+
+Prosconstitle: ###PROS AND CONS OF ADOBE XD
 
 ----
 
