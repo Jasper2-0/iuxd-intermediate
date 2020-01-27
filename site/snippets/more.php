@@ -14,7 +14,7 @@
         <span></span>
     </div>
 
-    <div class="adobexd-why dark">
+    <div class="adobexd-why">
         <div class="row">
             <div class="col-md-6 col-sm-12">
                 <?= $page->moretextone()->kirbytext() ?>

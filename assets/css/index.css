@@ -105,7 +105,8 @@ main {
 
 .intro {
   align-items: center;
-  background-image: url(../../media/img/apple-comp.jpg);
+  background-image: url(../../media/img/XD_Illustration_ByRegi.svg);
+  background-size: cover;
   color: #ffffff;
   display: flex;
   min-height: 400px;
@@ -322,13 +323,13 @@ a:hover {
 }
 
 @media only screen and (max-width: 1024px) {
-    .features,
-    .adobexd,
-    .video,
-    .sources,
-    .quote,
-    .workexamples,
-    .footert {
+  .features,
+  .adobexd,
+  .video,
+  .sources,
+  .quote,
+  .workexamples,
+  .footert {
     padding: 70px 0;
   }
 
@@ -337,10 +338,10 @@ a:hover {
   }
 
   .features .row {
-      margin-left: 0px;
-      margin-right: 0px;
-    }
-  
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
   .tablinks {
     margin-bottom: 30px;
     width: 33.3333%;
@@ -354,6 +355,9 @@ a:hover {
 }
 
 .adobexd {
+  background-image: url(../../media/img/Illustration2.svg);
+  background-size: cover;
+  background-position: center;
   background-color: #ffffff;
 }
 
@@ -372,6 +376,9 @@ a:hover {
 }
 
 .quote {
+  background-image: url(../../media/img/XD_Illustration_ByRegi.svg);
+  background-size: cover;
+  background-position: center;
   background-color: #ff26be;
 }
 
@@ -514,7 +521,6 @@ a:hover {
   .zoom {
     width: 300px;
   }
-  
 }
 
 @keyframes fadeEffect {
@@ -542,11 +548,14 @@ ul li {
 }
 
 ul li::before {
-    content: "»";
-    margin-right: 10px;
+  content: "»";
+  margin-right: 10px;
 }
 
 .dark {
+  background-image: url(../../media/img/Illustration3.svg);
+  background-size: cover;
+  background-position: center;
   background-color: #121212;
   color: white;
 }
@@ -579,7 +588,6 @@ ul li::before {
   .source h4 {
     margin-bottom: 5px;
   }
-
 }
 
 /* QUOTE */
