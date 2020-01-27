@@ -331,6 +331,10 @@ a:hover {
     padding: 70px 0;
   }
 
+  .workexamples {
+    padding-left: 30px;
+  }
+
   .features .row {
       margin-left: 0px;
       margin-right: 0px;
@@ -503,6 +507,10 @@ a:hover {
   .marg {
     padding-top: 30px;
   }
+
+  .zoom {
+    width: 300px;
+  }
   
 }
 
@@ -601,7 +609,8 @@ a:hover {
   height: 300px;
   margin-bottom: 30px;
   overflow: hidden;
-  width: 300px;
+  max-width: 300px;
+  width: 100%;
 }
 
 .work-image-1,

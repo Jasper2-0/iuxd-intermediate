@@ -27,7 +27,7 @@
                         - You’re able to view your live prototype on your smartphone
                     </p>
             </div>
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 marg">
                 <h3>Cons</h3>
                     <p>
                         - The current collaborative editing function is still beta

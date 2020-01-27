@@ -16,8 +16,7 @@
     </div>
 
     <div class="row">
-
-        <div class="column">
+        <div class="col-md-4 col-sm-12">
             <div class="work">
                 <div class="zoom">
                     <div class="work-image-1"></div>
@@ -26,7 +25,7 @@
                 <p>By Arun Thangavel</p>
             </div>
         </div>
-        <div class="column">
+        <div class="col-md-4 col-sm-12">
             <div class="work">
                 <div class="zoom">
                     <div class="work-image-2"></div>
@@ -35,7 +34,7 @@
                 <p>By Keith Alva</p>
             </div>
         </div>
-        <div class="column">
+        <div class="col-md-4 col-sm-12">
             <div class="work">
                 <div class="zoom">
                     <div class="work-image-3"></div>
@@ -44,7 +43,6 @@
                 <p>By Sabine Schwarzkopf</p>
             </div>
         </div>
-
     </div>
 
 </div>
