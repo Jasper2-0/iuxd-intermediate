@@ -1,4 +1,4 @@
-Title: My Awesome IUXD Topic
+Title: Home
 
 ----
 
@@ -7,3 +7,183 @@ Text:
 Hi IUXD Student, this is the IUXD-Intermediate Template Repository.
 
 As you can see Kirby and Bootstrap have been provided. Good luck with realising the 0.1 one pager!
+
+----
+
+Headertitle: #LET'S XD TOGETHER
+
+----
+
+Headertext: Since the beginning Adobe XD was positioned as a “product from designers to designers”. Every month, new sets of features are rolled out. It has become a major player in the software design space for its speed, cost effectiveness, operating system support, and advanced prototyping tools. Adobe XD is a User Experience design tool to create designs and interactive prototypes.
+
+----
+
+Featurestitle: ###FEATURES
+
+----
+
+Fonetitle: ####Animations
+
+----
+
+Fonetext: Add animations to your prototype to convey the interaction you wish the final product to have. By using auto-animate, you can add microinteractions that otherwise would not be obvious to the user. You can create custom animations and transitions with a wide variety of settings using timing, effects, triggers and more. It puts life into your prototype and gives the user a clear idea of what you imagine the end result to be.
+
+----
+
+Ftwotitle: ####Voice Triggers
+
+----
+
+Ftwotext: With voice triggers you are able to interact with your prototypes in a whole other way. Use voice triggers and speech playback to take your users beyond the screen. In addition, what you create for smart assistants can be previewed.
+
+----
+
+Fthreetitle: ####Collaboration
+
+----
+
+Fthreetext: While the function is still beta, you can now collaborate with other designers. Coediting lets you and your team work together at the same time, speeding up your workflow and elimination duplicative or conflicting work. Besides the ability to collaborate with other designers, Adobe XD also collaborates with productivity apps such as Slack, JIRA and Microsoft Teams.
+
+----
+
+Ffourtitle: ####Prototypes
+
+----
+
+Ffourtext: Switch from design to prototype mode with a single click, and connect artboards to communicate the flow and paths of multiscreen apps. Connect design elements from one artboard to another, including Repeat Grid cells. Add interactions with intuitive visual controls to test and validate the experience. When you’re done, you can share your prototype through a shareable web link to get feedback on your designs. Reviewers can comment directly on your prototypes and specific parts of your design.
+
+----
+
+Ffivetitle: ####Repeatable Grids
+
+----
+
+Ffivetext: Select items in your design, such as a contact list or photo gallery, and replicate them horizontally or vertically as many times as you want — all your styles and spacing stay intact. Update an element once, and your changes will update everywhere.
+
+----
+
+Fsixtitle: ####Plugins
+
+----
+
+Fsixtext: By using plugins, you can extend the functionality of Adobe XD for workflows and integrations with the growing collection of plugins created by their developer community. You can use them to automate tasks, integrate with other tools, design with data and more.
+
+----
+
+Whytitle: ###WHY ADOBE XD?
+
+----
+
+Whytextone: Adobe XD is available for both macOS and Windows. It's completely free and easy to use, even for beginners. There is also an Adobe XD mobile app. Even though Adobe XD is still relatively new, it's becoming one of the best design tools on the market. With new updates all the time and great features. XD Seperates itself from other tools  (like Sketch, Figma, Illustrator) by their features like advanced animations, voice triggers, repeat grid and many more. Adobe XD makes it super-easy to quickly create wireframes. Being able to design low-fidelity prototypes quickly means that we can focus on creating a layout that offers a terrific user experience.
+
+----
+
+Whytexttwo: Since Adobe XD has an option to collaborate, it makes it really easy for teams to share their work. You can also share your designs with customers. The app is great for prototyping with users. XD Is linked to Adobe resources, so you can implement Adobe Fonts, icons and much more, super quickly. XD offers a variety of many plugins, like stock photo's, calendars and many more.  XD's interface is easy to understand and similar to other design tools. Adobe XD is focused on what the designers and users really need. Hence why they keep improving themselves continuously and adapt to the users needs by bringing you new updates all the time.
+
+----
+
+Moretitle: ###RECOMMENDATIONS
+
+----
+
+Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. We would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). We do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case we would recommend to use Sketch instead.
+
+----
+
+Moretexttwo: If you need more dynamic prototyping than just transitions and states, (e.g. complex logic and/or dynamic states within one screen). In that case we either recommend to go for a tool such as Axure, or prototype directly within the browser, using HTML & CSS. For co-editing and for Mac & Windows users both Figma and Adobe XD are recommended. They have a lot of features in common, it just depends on which you prefer to work with. They are both updating all the time.
+
+----
+
+Quotetext: “If you think good design is expensive, you should look at the cost of bad design." - Dr. Ralf Speth
+
+----
+
+Linksix: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa3f7174119511.5c23935987019.gif
+
+----
+
+Video: https://www.youtube.com/embed/JqR-5nOPvjo
+
+----
+
+Whotitle: ###WHO USES ADOBE XD?
+
+----
+
+Whotextone: Adobe XD is great for all type of designers, like the people working in a creative agency. It's also great for individual use, students and start-ups since it's free. Many design agencies use XD in order to test their products with their target audience. The tool is perfectly fit for teamwork since you can use co-editing. XD Is very easy to understand for beginners. Especially if you have worked with other tools before. Even though there are tons of tutorials out there just in case you still can't figure it out.
+
+----
+
+Whotexttwo: Adobe XD is used during a large part of the design proces, usually in the middle and end of the design proces. In these phases the concept is being tranformed from wireframes into a high-fidelity prototype. During different iterations the product can be tested and evaluated. At the end of the proces, when the designs are finished the product can be realised and transferred to developers easily. Things like color codes, pixel sizes, margins and paddings can be easily found and implemented into the app or website.
+
+----
+
+Prosconstitle: ###PROS AND CONS
+
+----
+
+Prostitle: ###Pros
+
+----
+
+Pros:
+
+-  All types of artboards available
+- Simple and clean interface
+- Repeat grid feature
+- You can add animations into your prototype
+- You can trigger your prototype by using voice triggers
+- You’re able to view your live prototype on your smartphone
+
+----
+
+Constitle: ###Cons
+
+----
+
+Cons:
+
+- The current collaborative editing function is still beta
+- The animate options are less advanced than what’s possible in other tools
+- You can only view the live prototyping on devices with Mac OS
+- It’s not possible to design customised shapes
+
+----
+
+Tutorialtitle: #TRY OUR TUTORIAL
+
+----
+
+Tutorialtext: This tutorial focuses on all the different features of Adobe XD. If you’re a beginner, this tutorial is a great start to learn what you can achieve with this tool. Step by step you can follow our instructions to make a functional prototype by using features such as repeatable grids and animations.
+
+----
+
+Linktutorial: https://drive.google.com/open?id=1SYUyY6oEObV7sh8efhSal-fgWuUK1Eyp
+
+----
+
+Linkexample1: https://www.behance.net/gallery/37636333/Tap-Table-App-Design
+
+----
+
+Linkexample2: https://www.behance.net/gallery/38363019/Apple-Music-iOS-10
+
+----
+
+Linkexample3: https://www.behance.net/gallery/35138955/Tralley-App-Design-MadeWithAdobeXD
+
+----
+
+Linktwitter: https://twitter.com/adobexd
+
+----
+
+Linkfacebook: https://www.facebook.com/adobexd
+
+----
+
+Linkinstagram: https://www.instagram.com/xd.adobe/
+
+----
+
+Linkding: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa3f7174119511.5c23935987019.gif
