@@ -15,6 +15,8 @@
         <span></span>
     </div>
 
+    <div id="sources"></div>
+
     <div class="source-block">
 
         <div class="row">
