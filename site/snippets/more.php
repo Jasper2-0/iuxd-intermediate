@@ -16,10 +16,10 @@
 
     <div class="adobexd-why dark">
         <div class="row">
-            <div class="col">
+            <div class="col-md-6 col-sm-12">
                 <?= $page->moretextone()->kirbytext() ?>
             </div>
-            <div class="col">
+            <div class="col-md-6 col-sm-12 marg">
                 <?= $page->moretexttwo()->kirbytext() ?>
             </div>
         </div>

@@ -499,6 +499,10 @@ a:hover {
   .tabcontent p {
     width: 100%;
   }
+
+  .marg {
+    padding-top: 30px;
+  }
   
 }
 

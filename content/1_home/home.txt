@@ -38,7 +38,7 @@ Moretitle: ###RECOMMENDATIONS
 
 ----
 
-Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. We would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). We do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case I´d recommend to use Sketch instead.
+Moretextone: There are may options regarding design tools. Like Sketch, Figma and Adobe XD. We would recommend XD if: You want to design and prototype in a very seamless and smooth way. You use Windows, or if you collaborate with other designers who both use Windows and Mac. You use other Adobe products (like Adobe Illustrator). We do not recommend Adobe XD if: You and the designers you work with all use Mac. In that case we would recommend to use Sketch instead.
 
 ----
 
