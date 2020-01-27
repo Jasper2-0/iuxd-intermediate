@@ -20,6 +20,66 @@ fields:
     type: text
     size: small
 
+  fonetitle:
+    label: Feature title 1
+    type: text
+    size: small
+
+  fonetext:
+    label: Feature text 1
+    type: text
+    size: small
+
+  ftwotitle:
+    label: Feature title 2
+    type: text
+    size: small
+
+  ftwotext:
+    label: Feature text 2
+    type: text
+    size: small
+
+  fthreetitle:
+    label: Feature title 3
+    type: text
+    size: small
+
+  fthreetext:
+    label: Feature text 3
+    type: text
+    size: small
+
+  ffourtitle:
+    label: Feature title 4
+    type: text
+    size: small
+
+  ffourtext:
+    label: Feature text 4
+    type: text
+    size: small
+
+  ffivetitle:
+    label: Feature title 5
+    type: text
+    size: small
+
+  ffivetext:
+    label: Feature text 5
+    type: text
+    size: small
+
+  fsixtitle:
+    label: Feature title 6
+    type: text
+    size: small
+
+  fsixtext:
+    label: Feature text 6
+    type: text
+    size: small
+
   whytitle:
     label: WHY TITLE
     type: text
@@ -77,6 +137,26 @@ fields:
   prosconstitle:
     label: PROS CONS TITLE
     type: text
+    size: small
+
+  prostitle:
+    label: PROS title
+    type: text
+    size: small
+
+  pros:
+    label: PROS
+    type: textarea
+    size: small
+
+  constitle:
+    label: CONS title
+    type: text
+    size: small
+
+  cons:
+    label: CONS
+    type: textarea
     size: small
 
   tutorialtitle:

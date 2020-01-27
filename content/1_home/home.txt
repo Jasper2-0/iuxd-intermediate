@@ -22,6 +22,54 @@ Featurestitle: ###FEATURES
 
 ----
 
+Fonetitle: ####Animations
+
+----
+
+Fonetext: Add animations to your prototype to convey the interaction you wish the final product to have. By using auto-animate, you can add microinteractions that otherwise would not be obvious to the user. You can create custom animations and transitions with a wide variety of settings using timing, effects, triggers and more. It puts life into your prototype and gives the user a clear idea of what you imagine the end result to be.
+
+----
+
+Ftwotitle: ####Voice Triggers
+
+----
+
+Ftwotext: With voice triggers you are able to interact with your prototypes in a whole other way. Use voice triggers and speech playback to take your users beyond the screen. In addition, what you create for smart assistants can be previewed.
+
+----
+
+Fthreetitle: ####Collaboration
+
+----
+
+Fthreetext: While the function is still beta, you can now collaborate with other designers. Coediting lets you and your team work together at the same time, speeding up your workflow and elimination duplicative or conflicting work. Besides the ability to collaborate with other designers, Adobe XD also collaborates with productivity apps such as Slack, JIRA and Microsoft Teams.
+
+----
+
+Ffourtitle: ####Prototypes
+
+----
+
+Ffourtext: Switch from design to prototype mode with a single click, and connect artboards to communicate the flow and paths of multiscreen apps. Connect design elements from one artboard to another, including Repeat Grid cells. Add interactions with intuitive visual controls to test and validate the experience. When you’re done, you can share your prototype through a shareable web link to get feedback on your designs. Reviewers can comment directly on your prototypes and specific parts of your design.
+
+----
+
+Ffivetitle: ####Repeatable Grids
+
+----
+
+Ffivetext: Select items in your design, such as a contact list or photo gallery, and replicate them horizontally or vertically as many times as you want — all your styles and spacing stay intact. Update an element once, and your changes will update everywhere.
+
+----
+
+Fsixtitle: ####Plugins
+
+----
+
+Fsixtext: By using plugins, you can extend the functionality of Adobe XD for workflows and integrations with the growing collection of plugins created by their developer community. You can use them to automate tasks, integrate with other tools, design with data and more.
+
+----
+
 Whytitle: ###WHY ADOBE XD?
 
 ----
@@ -71,6 +119,34 @@ Whotexttwo: Adobe XD is used during a large part of the design proces, usually i
 ----
 
 Prosconstitle: ###PROS AND CONS
+
+----
+
+Prostitle: ###Pros
+
+----
+
+Pros:
+
+-  All types of artboards available
+- Simple and clean interface
+- Repeat grid feature
+- You can add animations into your prototype
+- You can trigger your prototype by using voice triggers
+- You’re able to view your live prototype on your smartphone
+
+----
+
+Constitle: ###Cons
+
+----
+
+Cons:
+
+- The current collaborative editing function is still beta
+- The animate options are less advanced than what’s possible in other tools
+- You can only view the live prototyping on devices with Mac OS
+- It’s not possible to design customised shapes
 
 ----
 

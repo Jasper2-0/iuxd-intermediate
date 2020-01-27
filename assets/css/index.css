@@ -24,6 +24,7 @@ li {
 }
 
 p {
+  font-size: 18px;
   margin: 0;
 }
 
@@ -301,7 +302,7 @@ h2 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
   margin-bottom: 20px;
 }
@@ -383,7 +384,6 @@ a:hover {
 
 .footer {
   background-color: #121212;
-  height: 230px;
 }
 
 .row {
@@ -482,11 +482,12 @@ a:hover {
   display: none;
   padding: 70px 180px;
   background-color: #eaeaea;
-  height: 300px;
+  min-height: 300px;
   animation: fadeEffect 1.5s;
 }
 
-.tabcontent h3 {
+.tabcontent h4 {
+  font-weight: bold;
   margin-bottom: 30px;
 }
 
@@ -534,7 +535,13 @@ a:hover {
 }
 
 ul li {
+  font-size: 18px;
   line-height: 30px;
+}
+
+ul li::before {
+    content: "»";
+    margin-right: 10px;
 }
 
 .dark {
@@ -545,7 +552,6 @@ ul li {
 .adobexd p {
   flex: 1;
   padding: 0 40px;
-  font-size: 14px;
   line-height: 1.5rem;
 }
 
@@ -553,7 +559,6 @@ ul li {
 
 .source-block a {
   color: #848484;
-  font-family: "Source Serif Pro", serif;
   font-size: 18px;
   margin-bottom: 50px;
 }
@@ -661,8 +666,7 @@ ul li {
 
 .work p {
   color: #848484;
-  font-family: "Source Serif Pro", serif;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 400;
 }
 
@@ -680,7 +684,7 @@ ul li {
   background-size: contain;
   border-radius: none;
   height: 22px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   transition: transform 0.2s;
   width: 90px;
   color: white;

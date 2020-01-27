@@ -15,22 +15,28 @@
         <div class="row">
             <div class="column">
                 <div class="feature">
-                    <div class="social-icon social-icon-1"></div>
-                    <a href="<?= $page->linktwitter()->kirbyurl() ?>">Twitter</a>
+                    <a href="<?= $page->linktwitter()->kirbyurl() ?>">
+                        <div class="social-icon social-icon-1"></div>
+                        Twitter
+                    </a>
                 </div>
             </div>
 
             <div class="column">
                 <div class="feature">
-                    <div class="social-icon social-icon-2"></div>
-                    <a href="<?= $page->linkfacebook()->kirbyurl() ?>">Facebook</a>
+                    <a href="<?= $page->linkfacebook()->kirbyurl() ?>">
+                        <div class="social-icon social-icon-2"></div>
+                        Facebook
+                    </a>
                 </div>
             </div>
 
             <div class="column">
                 <div class="feature">
-                    <div class="social-icon social-icon-3"></div>
-                    <a href="<?= $page->linkinstagram()->kirbyurl() ?>">Instagram</a>
+                    <a href="<?= $page->linkinstagram()->kirbyurl() ?>">
+                        <div class="social-icon social-icon-3"></div>
+                        Instagram
+                    </a>
                 </div>
             </div>
         </div>
